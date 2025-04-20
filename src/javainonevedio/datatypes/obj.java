@@ -6,6 +6,8 @@ public class obj {
          book.price=100;
          book.name="classmate";
          book.write();
+         Book book1=new Book(400,"V");
+        System.out.println(book1.name);
 
     }
 }
